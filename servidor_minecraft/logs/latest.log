@@ -1,0 +1,136 @@
+[22:16:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:16:07] [ServerMain/INFO]: Loaded 1461 recipes
+[22:16:07] [ServerMain/INFO]: Loaded 1574 advancements
+[22:16:07] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:16:07] [Server thread/INFO]: Loading properties
+[22:16:07] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:07] [Server thread/INFO]: Generating keypair
+[22:16:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:08] [Server thread/INFO]: Using epoll channel type
+[22:16:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:16:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:16:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:16:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:16:08] [Server thread/INFO]: Preparing level "world"
+[22:16:08] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:16:08] [Server thread/INFO]: Preparing spawn area: 100%
+[22:16:08] [Server thread/INFO]: Time elapsed: 14 ms
+[22:16:08] [Server thread/INFO]: Done (0.503s)! For help, type "help"
+[22:16:20] [Server thread/INFO]: noenashe[/127.79.63.59:53855] logged in with entity id 100 at (-1049.9931871687936, 65.0, 158.09818827535486)
+[22:16:20] [Server thread/INFO]: noenashe joined the game
+[22:20:44] [Server thread/INFO]: noenashe has reached the goal [Beaconator]
+[22:20:44] [Server thread/INFO]: noenashe has made the advancement [Bring Home the Beacon]
+[22:27:04] [Server thread/WARN]: noenashe moved wrongly!
+[22:31:56] [Server thread/WARN]: noenashe moved wrongly!
+[22:32:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-931, y=71, z=80} ja{x=-931, y=73, z=81}
+[22:32:06] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-931, y=71, z=79} ja{x=-931, y=73, z=81}
+[22:32:38] [Server thread/WARN]: noenashe moved wrongly!
+[22:38:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-878, y=78, z=106} ja{x=-874, y=79, z=111}
+[22:42:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-886, y=77, z=82} ja{x=-893, y=76, z=76}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:42:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=77, z=64} ja{x=-885, y=75, z=75}
+[22:43:30] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-878, y=75, z=68} ja{x=-886, y=73, z=128}
+[22:43:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-882, y=73, z=135} ja{x=-881, y=73, z=135}
+[22:44:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-855, y=74, z=105} ja{x=-856, y=73, z=104}
+[22:44:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-855, y=74, z=105} ja{x=-857, y=73, z=104}
+[22:44:23] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-860, y=74, z=103} ja{x=-860, y=73, z=103}
+[22:47:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-872, y=74, z=114} ja{x=-873, y=74, z=115}
+[22:47:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-872, y=74, z=114} ja{x=-873, y=74, z=115}
+[22:55:42] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-862, y=73, z=62} ja{x=-861, y=73, z=62}
+[22:55:42] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-862, y=73, z=62} ja{x=-861, y=73, z=62}
+[22:55:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-865, y=74, z=59} ja{x=-864, y=73, z=59}
+[22:55:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-865, y=74, z=59} ja{x=-864, y=73, z=59}
+[22:57:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-846, y=74, z=109} ja{x=-845, y=73, z=110}
+[22:57:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-846, y=74, z=109} ja{x=-845, y=73, z=110}
+[22:57:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-846, y=74, z=109} ja{x=-845, y=73, z=110}
+[22:57:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-846, y=74, z=109} ja{x=-845, y=73, z=110}
+[22:57:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-846, y=74, z=109} ja{x=-845, y=73, z=110}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[22:58:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-852, y=72, z=119} ja{x=-851, y=74, z=126}
+[23:00:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-848, y=76, z=128} ja{x=-847, y=76, z=128}
+[23:01:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-843, y=76, z=144} ja{x=-844, y=75, z=147}
+[23:11:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-876, y=72, z=47} ja{x=-876, y=71, z=48}
+[23:11:30] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-880, y=72, z=47} ja{x=-880, y=71, z=48}
+[23:11:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-889, y=71, z=51} ja{x=-888, y=70, z=52}
+[23:20:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-888, y=72, z=73} ja{x=-886, y=72, z=74}
+[23:20:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=72, z=72} ja{x=-886, y=72, z=74}
+[23:20:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-887, y=72, z=72} ja{x=-886, y=72, z=74}
+[23:20:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-886, y=72, z=70} ja{x=-886, y=72, z=74}
+[23:20:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-886, y=72, z=69} ja{x=-886, y=72, z=74}
+[23:22:09] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-880, y=71, z=52} ja{x=-879, y=71, z=51}
+[23:22:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-881, y=72, z=60} ja{x=-882, y=72, z=60}
+[23:22:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-880, y=72, z=60} ja{x=-882, y=72, z=60}
+[23:22:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-879, y=72, z=61} ja{x=-882, y=72, z=60}
+[23:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-882, y=72, z=96} ja{x=-883, y=72, z=95}
+[23:23:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-850, y=72, z=116} ja{x=-851, y=72, z=115}
+[23:23:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-850, y=72, z=115} ja{x=-851, y=72, z=115}
+[23:23:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-850, y=72, z=115} ja{x=-851, y=72, z=115}
+[23:24:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-884, y=72, z=85} ja{x=-884, y=72, z=86}
+[23:28:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-864, y=71, z=64} ja{x=-864, y=71, z=63}
+[23:28:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-864, y=71, z=64} ja{x=-864, y=71, z=63}
+[23:28:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-864, y=71, z=64} ja{x=-864, y=71, z=63}
+[23:28:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-864, y=71, z=64} ja{x=-864, y=71, z=63}
+[23:28:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-864, y=71, z=64} ja{x=-864, y=71, z=63}
+[23:28:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-875, y=72, z=55} ja{x=-876, y=71, z=56}
+[23:29:22] [Server thread/WARN]: noenashe moved wrongly!
+[23:29:49] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-892, y=69, z=55} ja{x=-892, y=69, z=53}
+[23:29:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-897, y=70, z=53} ja{x=-896, y=67, z=53}
+[23:29:52] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-900, y=69, z=53} ja{x=-902, y=68, z=53}
+[23:29:52] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-900, y=69, z=53} ja{x=-902, y=68, z=53}
+[23:29:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-905, y=67, z=53} ja{x=-904, y=66, z=53}
+[23:29:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-904, y=66, z=53} ja{x=-903, y=65, z=53}
+[23:29:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-904, y=66, z=53} ja{x=-903, y=65, z=53}
+[23:29:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-904, y=66, z=53} ja{x=-903, y=65, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-906, y=64, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:56] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:29:56] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-908, y=68, z=53} ja{x=-909, y=68, z=53}
+[23:30:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-918, y=65, z=53} ja{x=-918, y=66, z=53}
+[23:30:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-918, y=65, z=53} ja{x=-918, y=66, z=53}
+[23:30:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-918, y=65, z=53} ja{x=-918, y=66, z=53}
+[23:30:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-925, y=65, z=58} ja{x=-924, y=65, z=57}
+[23:30:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-925, y=65, z=58} ja{x=-924, y=65, z=57}
+[23:30:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-925, y=65, z=58} ja{x=-924, y=65, z=57}
+[23:33:07] [Server thread/INFO]: noenashe has made the advancement [Voluntary Exile]
+[23:33:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-819, y=64, z=114} ja{x=-914, y=64, z=88}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-919, y=66, z=57} ja{x=-920, y=67, z=57}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-919, y=66, z=57} ja{x=-920, y=67, z=57}
+[23:35:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-904, y=67, z=55} ja{x=-905, y=65, z=54}
+[23:35:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-903, y=68, z=54} ja{x=-903, y=67, z=54}
+[23:35:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-903, y=68, z=54} ja{x=-903, y=67, z=54}
+[23:35:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-903, y=67, z=54} ja{x=-904, y=65, z=55}
+[23:35:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-903, y=67, z=54} ja{x=-904, y=65, z=55}
+[23:35:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-905, y=70, z=56} ja{x=-906, y=69, z=55}
+[23:35:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-905, y=70, z=56} ja{x=-906, y=69, z=55}
+[23:35:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-917, y=67, z=56} ja{x=-917, y=68, z=56}
+[23:35:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-917, y=67, z=56} ja{x=-917, y=68, z=56}
+[23:35:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-917, y=67, z=56} ja{x=-917, y=68, z=56}
+[23:35:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-917, y=67, z=56} ja{x=-917, y=68, z=56}
+[23:35:52] [Server thread/WARN]: noenashe moved wrongly!
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:02] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:36:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-916, y=70, z=74} ja{x=-916, y=69, z=70}
+[23:37:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-913, y=68, z=102} ja{x=-912, y=65, z=102}
+[23:37:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-913, y=68, z=102} ja{x=-912, y=65, z=102}
