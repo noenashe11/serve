@@ -1,0 +1,64 @@
+[02:59:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:59:59] [ServerMain/INFO]: Loaded 1461 recipes
+[02:59:59] [ServerMain/INFO]: Loaded 1574 advancements
+[02:59:59] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[02:59:59] [Server thread/INFO]: Loading properties
+[02:59:59] [Server thread/INFO]: Default game type: SURVIVAL
+[02:59:59] [Server thread/INFO]: Generating keypair
+[02:59:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:00:00] [Server thread/INFO]: Using epoll channel type
+[03:00:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:00:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:00:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:00:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:00:00] [Server thread/INFO]: Preparing level "world"
+[03:00:00] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:00:00] [Server thread/INFO]: Preparing spawn area: 100%
+[03:00:00] [Server thread/INFO]: Time elapsed: 33 ms
+[03:00:00] [Server thread/INFO]: Done (0.507s)! For help, type "help"
+[03:00:09] [Server thread/INFO]: noenashe[/127.79.63.59:50773] logged in with entity id 114 at (-1048.5, 64.875, 157.5)
+[03:00:09] [Server thread/INFO]: noenashe joined the game
+[03:00:09] [Server thread/INFO]: RRX_Bellako[/127.212.212.168:35569] logged in with entity id 117 at (-1050.792064310824, 64.0, 160.22513247369125)
+[03:00:09] [Server thread/INFO]: RRX_Bellako joined the game
+[03:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:00:32] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:07:12] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[03:08:26] [Server thread/INFO]: noenashe lost connection: Disconnected
+[03:08:26] [Server thread/INFO]: noenashe left the game
+[03:09:11] [Server thread/INFO]: noenashe[/127.79.63.59:55795] logged in with entity id 4862 at (-232.3160942945677, 174.0, -513.3113698627552)
+[03:09:11] [Server thread/INFO]: noenashe joined the game
+[03:09:16] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:21:17] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[03:22:12] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:29:42] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[03:30:23] [Server thread/WARN]: RRX_Bellako moved too quickly! -12.067965643718708,-0.5591061694899082,13.025184582119891
+[03:30:24] [Server thread/WARN]: noenashe moved too quickly! 17.231671931893914,-2.359222069891729,-2.1464295276007697
+[03:31:54] [Server thread/INFO]: RRX_Bellako lost connection: Disconnected
+[03:31:54] [Server thread/INFO]: RRX_Bellako left the game
+[03:33:40] [Server thread/INFO]: [noenashe: Set own game mode to Spectator Mode]
+[03:33:48] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:34:21] [Server thread/INFO]: [noenashe: Set own game mode to Spectator Mode]
+[03:34:32] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:34:40] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[03:34:42] [Server thread/INFO]: [noenashe: Set own game mode to Creative Mode]
+[03:34:44] [Server thread/INFO]: [noenashe: Set own game mode to Survival Mode]
+[03:35:53] [Server thread/INFO]: RRX_Bellako[/127.212.212.168:59209] logged in with entity id 18278 at (-5082.03146426248, 126.0, 3537.259508239919)
+[03:35:53] [Server thread/INFO]: RRX_Bellako joined the game
+[03:39:53] [Server thread/WARN]: RRX_Bellako moved too quickly! 9.682744354406168,0.0,2.6893586039286674
+[03:39:53] [Server thread/INFO]: RRX_Bellako lost connection: Timed out
+[03:39:53] [Server thread/INFO]: RRX_Bellako left the game
+[03:39:53] [Server thread/WARN]: handleDisconnection() called twice
+[03:40:00] [Server thread/INFO]: noenashe lost connection: Timed out
+[03:40:00] [Server thread/INFO]: noenashe left the game
+[03:40:02] [Server thread/INFO]: RRX_Bellako[/127.212.212.168:34731] logged in with entity id 21713 at (-4765.165772872718, 123.0, 4562.4818768597925)
+[03:40:02] [Server thread/INFO]: RRX_Bellako joined the game
+[03:40:23] [Server thread/INFO]: noenashe[/127.79.63.59:40397] logged in with entity id 21826 at (-128.28277041873753, 129.0, 24.5)
+[03:40:23] [Server thread/INFO]: noenashe joined the game
+[03:45:03] [Server thread/INFO]: RRX_Bellako lost connection: Timed out
+[03:45:03] [Server thread/INFO]: RRX_Bellako left the game
+[03:45:03] [Server thread/WARN]: handleDisconnection() called twice
+[03:45:10] [Server thread/INFO]: RRX_Bellako[/127.212.212.168:39313] logged in with entity id 26893 at (-248.31891906024745, 130.06522402532514, -190.9505370523143)
+[03:45:10] [Server thread/INFO]: RRX_Bellako joined the game
+[03:48:18] [Server thread/WARN]: noenashe moved wrongly!
+[03:49:58] [Server thread/INFO]: [Not Secure] <noenashe> -123 128 1500
+[03:51:43] [Server thread/INFO]: RRX_Bellako has completed the challenge [Subspace Bubble]
