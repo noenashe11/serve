@@ -1,0 +1,23 @@
+[03:45:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:45:23] [ServerMain/INFO]: Loaded 1461 recipes
+[03:45:23] [ServerMain/INFO]: Loaded 1574 advancements
+[03:45:23] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:45:23] [Server thread/INFO]: Loading properties
+[03:45:23] [Server thread/INFO]: Default game type: SURVIVAL
+[03:45:23] [Server thread/INFO]: Generating keypair
+[03:45:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:45:23] [Server thread/INFO]: Using epoll channel type
+[03:45:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:45:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:45:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:45:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:45:23] [Server thread/INFO]: Preparing level "world"
+[03:45:24] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:45:24] [Server thread/INFO]: Preparing spawn area: 100%
+[03:45:24] [Server thread/INFO]: Time elapsed: 14 ms
+[03:45:24] [Server thread/INFO]: Done (0.588s)! For help, type "help"
+[03:46:17] [Server thread/INFO]: RRX_Bellako[/127.212.212.168:41935] logged in with entity id 112 at (-1081.0921423591124, 72.0, 174.42122088334594)
+[03:46:17] [Server thread/INFO]: RRX_Bellako joined the game
+[03:59:42] [Server thread/INFO]: RRX_Bellako lost connection: Disconnected
+[03:59:42] [Server thread/INFO]: RRX_Bellako left the game
+[04:00:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
